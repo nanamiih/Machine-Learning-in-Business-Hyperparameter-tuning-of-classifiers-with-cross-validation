@@ -1,1 +1,2 @@
 # Machine-Learning-in-Business-Hyperparameter-tuning-of-classifiers-with-cross-validation
+In this project, I perform hyperparameter tuning of the two classifiers by changing at least three different hyperparameters for each classifier. By using random, grid and Bayes search for hyperparameter tuning along with cross-validation, and build three new models of each type (i.e., decision tree, random forest) based on the "best parameters" from each type of tuning.
